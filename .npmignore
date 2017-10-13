@@ -2,6 +2,7 @@
 .vscode
 examples
 migrations*
+!migration*.js
 support
 test
 tests
